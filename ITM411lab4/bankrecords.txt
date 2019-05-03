@@ -1,0 +1,11 @@
+Data analytic results: 
+
+Avg inc. for Females: $ 28646.32 
+Avg inc. for Males: $ 27225.83
+Num. of Females with mortage & saving accts : 71
+Inner region males with a car & 1 child : 15
+Rural region males with a car & 1 child : 9
+Subarban region males with a car & 1 child : 3
+Town region males with a car & 1 child : 7
+Time stamp: 2019-04-16, 09:25
+Made By Xionghui Huang
